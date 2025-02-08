@@ -1,0 +1,1 @@
+This repository contains a VBScript program that compares two numbers entered by the user.  The original code lacks robust error handling for non-numeric input.  The `bugSolution.vbs` file provides an improved version with better error handling.
